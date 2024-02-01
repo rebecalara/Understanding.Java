@@ -7,7 +7,7 @@
 <h2>Qual é a relação entre algoritmo e automação na programação de computadores?</h2>
 <p>No contexto da computação, o hardware representa a parte física da máquina, enquanto o software constitui a parte lógica, composta por programas. Exemplos de software incluem sistemas operacionais como Linux, Windows, iOS, assim como aplicativos de escritório, câmera, navegadores web, jogos e utilitários, como antivírus e compactadores de arquivos.</p>
 
-<h2>Programa</h2>
+<h2>Programas</h2>
 <p>Os programas de computador são essencialmente algoritmos que o computador executa. Em termos simples, o computador é uma máquina dedicada à automação da execução desses algoritmos.</p>
 
 <h2>O que é necessário para criar um programa de computador?</h2>
@@ -31,5 +31,5 @@
 <h2>Interpretação</h2>
 <p>Contrastando com a compilação, a interpretação ocorre linha por linha durante a execução do programa. Um interpretador lê e executa diretamente o código fonte, convertendo e executando cada instrução conforme necessário. Isso proporciona flexibilidade, permitindo a modificação do código durante a execução. No entanto, a interpretação pode ser menos eficiente em termos de desempenho em comparação com a compilação, pois cada linha de código é interpretada em tempo real.</p>
 
-<h2>Abordagem Hibrida</h2>
+<h2>Abordagem Híbrida</h2>
 <p>A abordagem híbrida combina elementos de compilação e interpretação. Nesse modelo, parte do código fonte é compilada para um formato intermediário, como bytecode. O interpretador lida com a execução desse bytecode, oferecendo benefícios como portabilidade e desempenho aprimorado. Essa abordagem é utilizada em linguagens como Java, onde o código fonte é compilado para bytecode e interpretado pela Máquina Virtual Java (JVM). A escolha entre compilação, interpretação ou uma abordagem híbrida depende das características específicas do projeto.</p>
