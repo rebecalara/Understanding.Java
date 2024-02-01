@@ -1,4 +1,4 @@
-<h2>Sobre Java?</h2>
+<h2>Sobre Java</h2>
 <p>Java é uma linguagem de programação orientada a objetos e de alto nível, conhecida por sua portabilidade, segurança e ampla aplicação. Sua independência de plataforma é alcançada através da compilação para bytecode, interpretado pela Máquina Virtual Java (JVM). Reconhecida por sua biblioteca padrão, tratamento de exceções robusto e coleta automática de lixo, Java é utilizada em diversos domínios, como web, móvel e corporativo. Desenvolvida pela Sun Microsystems e, após a aquisição pela Oracle em 2010, a linguagem continuou sob a gestão da Oracle, evidenciando sua evolução ao longo do tempo.</p>
 
 <h2>Compilação e Interpretação</h2>
